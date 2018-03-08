@@ -1,0 +1,8 @@
+diff a/test/src/test/javaaTest.java b/test/src/test/javaaTest.java	(rejected hunks)
+@@ -1,5 +1,5 @@
+ package test;
+ 
+ public class javaaTest {
+-	Testtest?
++	Testtest??
+ }
